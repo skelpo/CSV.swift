@@ -9,7 +9,7 @@
 import Foundation
 import XCTest
 
-import CSV
+import CSV_NIO
 
 extension OutputStream {
 

@@ -8,7 +8,7 @@
 
 import Foundation
 import XCTest
-@testable import CSV
+@testable import CSV_NIO
 
 class UnicodeTests: XCTestCase {
 

@@ -9,7 +9,7 @@
 import Foundation
 import XCTest
 
-import CSV
+import CSV_NIO
 
 class Version1Tests: XCTestCase {
 

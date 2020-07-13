@@ -1,10 +1,8 @@
-# CSV.swift
-
-[![Build Status](https://travis-ci.org/yaslab/CSV.swift.svg?branch=master)](https://travis-ci.org/yaslab/CSV.swift)
-[![codecov](https://codecov.io/gh/yaslab/CSV.swift/branch/master/graph/badge.svg)](https://codecov.io/gh/yaslab/CSV.swift)
-[![Open Source Helpers](https://www.codetriage.com/yaslab/csv.swift/badges/users.svg)](https://www.codetriage.com/yaslab/csv.swift)
+# CSV.swift.NIO
 
 CSV reading and writing library written in Swift.
+
+This fork provides support for using the original `CSV.swift` library in conjunction with `SwiftNIO` for server-side applications. 
 
 ## Usage for reading CSV
 

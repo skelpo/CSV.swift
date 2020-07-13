@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import CSV
+@testable import CSV_NIO
 
 class TrimFieldsTests: XCTestCase {
 
